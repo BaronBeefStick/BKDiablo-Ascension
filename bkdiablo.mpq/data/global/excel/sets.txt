@@ -34,7 +34,7 @@ Naj's Ancient Set	Naj's Ancient Set	100	cast1		30	30	mag%/lvl	12																
 McAuley's Folly	McAuley's Folly	100	mana%		5	5					res-all		15	15																					skilltab	7	2	2	mag%		125	125	mana		50	50	addxp		15	15	cast1		20	20														0
 Warlord's Glory	Warlord's Glory	100	lifesteal		15	15					ac		150	150																					allskills		1	1	aura	Meditation	10	10	red-dmg	0	9	9	res-fire	0	15	15	mana		20	20	addxp		15	15	mag%		75	75					war	0
 Bane's Garments	Bane's Garments	100	dmg%		80	80																													allskills		1	1	dex		15	15	cast1		25	25	addxp		15	15	mag%		75	75													war	0
-Horazon's Splendor	Horazon's Splendor	100	dex		20	20					enr		30	30					ac		300	300													res-all		50	50	war		3	3	dmg%		350	350	mag%		100	100	oskill	Enchant	30	30	state	fullsetgeneric	1	1	oskill	teleport	10	10					war	0
+Horazon's Splendor	Horazon's Splendor	100	dex		20	20					enr		30	30					ac		300	300													res-all		50	50	war		3	3	dmg%		350	350	mag%		100	100	oskill	Enchant	30	30	state	fullsetgeneric	1	1	oskill	teleport	10	10	pierce-fire		25	25	war	0
 Nadin's Winning Strategy	Nadin's Winning Strategy	100																																	addxp		10	10	cast2		10	10	move2		25	25	balance2		24	24	allskills		1	1	mag%		50	50										0
 Sanctuary's Blessing Caster	Sanctuary's Blessing Caster	100																																	addxp		15	15	gold%		200	200	nofreeze		1	1	res-curse		20	20	mag%		150	150	oskill	Lower Resist	20	20	state	frenzy	1	1						0
 Sanctuary's Blessing Melee	Sanctuary's Blessing Melee	100																																	addxp		15	15	gold%		200	200	nofreeze		1	1	res-curse		20	20	dmg		300	300	state	frenzy	1	1	mag%		150	150	oskill	Blade Shield	20	20		0
@@ -43,15 +43,15 @@ Fake Ascension	Fake Ascension	100																																															
 Sigurds Nobility	Sigurds Nobility	100																																	addxp		15	15	res-curse		100	100	mag%		100	100	move2		50	50	cast2		30	30	red-dmg%		20	20	hp%		50	50						0
 Humanity's End	Humanity's End	100																																	addxp		15	15	allskills		3	3	mag%		200	200	gold%		200	200	oskill	summon resist	20	20	oskill	raise skeleton	35	35	oskill	skeleton mastery	35	35	oskill	corpse explosion	10	10		0
 Royal Guard	Royal Guard	100																																	addxp		15	15	res-curse		66	66	allskills		3	3	cheap		20	20	cast2		80	80	swing2		80	80	mag%		100	100	res-all-max		15	15		0
-Natalya's Vengeance	Natalya's Vengeance	100																																	allskills		2	2	swing2		50	50	cast2		50	50	red-dmg%		20	20	oskill	teleport	20	20	res-all		75	75	mag%		150	150	oskill	whirlwind	20	20	ass	0
-Aldur's Beacon	Aldur's Beacon	100																																	allskills		2	2	swing2		50	50	cast2		50	50	dmg		300	300	res-all		75	75	red-dmg%		20	20	oskill	teleport	20	20	mag%		150	150	dru	0
-Bul Katho's Embodiment	Bul Katho's Embodiment	100																																	allskills		2	2	hp%		50	50	res-all		75	75	dmg		300	300	res-curse		33	33	move2		50	50	oskill	teleport	20	20					bar	0
-Tal Rasha's Elements	Tal Rasha's Elements	100																																	sor		2	2	mana%		50	50	res-all		75	75	oskill	evade	5	5	red-dmg		30	30	red-mag		30	30	oskill	lower resist	20	20					sor	0
-Griswold's Masterwork	Griswold's Masterwork	100																																	pal		2	2	oskill	cold mastery	7	7	oskill	fire mastery	7	7	oskill	lightning mastery	7	7	res-all		75	75	mag%		150	150	oskill	teleport	20	20					pal	0
-Trang-Oul's Incarnation	Trang-Oul's Incarnation	100																																	allskills		2	2	oskill	teleport	20	20	res-all		100	100	red-dmg%		20	20	mag%		150	150	oskill	enchant	20	20	oskill	warmth	20	20	oskill	fire mastery	7	7	nec	0
-God of War M'avina	God of War M'avina	100																																	allskills		2	2	oskill	teleport	20	20	skill	lightning fury	7	7	skill	lightning strike	7	7	res-all		75	75	res-all-max		10	10	dmg%		200	200	mag%		150	150	ama	0
+Natalya's Vengeance	Natalya's Vengeance	100																																	allskills		3	3	swing2		50	50	cast2		50	50	red-dmg%		20	20	oskill	teleport	20	20	res-all		75	75	mag%		150	150	charge-noconsume		100	100	ass	0
+Aldur's Beacon	Aldur's Beacon	100																																	allskills		3	3	swing2		50	50	cast2		50	50	dmg		300	300	res-all		75	75	red-dmg%		20	20	oskill	teleport	20	20	mag%		150	150	dru	0
+Bul Katho's Embodiment	Bul Katho's Embodiment	100																																	allskills		3	3	hp%		50	50	res-all		75	75	dmg		300	300	res-curse		33	33	move2		50	50	oskill	teleport	20	20	mag%		200	200	bar	0
+Tal Rasha's Elements	Tal Rasha's Elements	100																																	allskills		3	3	mana%		50	50	res-all		75	75	oskill	evade	5	5	red-dmg		30	30	red-mag		30	30	oskill	lower resist	20	20					sor	0
+Griswold's Masterwork	Griswold's Masterwork	100																																	allskills		3	3	oskill	cold mastery	7	7	oskill	fire mastery	7	7	oskill	lightning mastery	7	7	res-all		75	75	mag%		150	150	oskill	teleport	20	20					pal	0
+Trang-Oul's Incarnation	Trang-Oul's Incarnation	100																																	allskills		3	3	oskill	teleport	20	20	res-all		100	100	red-dmg%		20	20	mag%		150	150	oskill	enchant	20	20	oskill	warmth	20	20	oskill	fire mastery	7	7	nec	0
+God of War M'avina	God of War M'avina	100																																	allskills		3	3	oskill	teleport	20	20	skill	lightning fury	7	7	skill	lightning strike	7	7	res-all		75	75	res-all-max		10	10	dmg%		200	200	mag%		150	150	ama	0
 M'avina's Disappointment	M'avina's Disappointment	100																																																																	ama	0
 Death's Embrace	Death's Embrace	100																																	oskill	Blood Oath	1	1	oskill	Death Mark	1	1	oskill	Bind Demon	1	1	addxp		15	15	mag%		100	100	res-all		40	40	gold%		150	150						0
 Destiny	Destiny	100																																	oskill	teleport	1	1	addxp		15	15	mag%		150	150	res-all		50	50	allskills		2	2	gold%		150	150										0
-Horazon's Heirloom	Horazon's Heirloom	100																																	allskills		2	2	addxp		15	15	mag%		150	150	gold%		150	150	red-dmg%		10	10	pierce-mag		30	30	pierce-fire		25	25	res-all		25	25	war	0
+Horazon's Heirloom	Horazon's Heirloom	100																																	allskills		3	3					mag%		150	150	gold%		150	150	red-dmg%		10	10	pierce-mag		30	30	oskill	teleport	20	20	res-all		25	25	war	0
 The Paradox	The Paradox	100																																	allskills		1	1	swing2		40	40	balance2		100	100	cast2		20	20	move2		50	50	addxp		15	15	mag%		50	50	res-all		30	30		0
