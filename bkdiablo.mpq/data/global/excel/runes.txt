@@ -96,7 +96,7 @@ Runeword95	Passion	1						weap									DolOrtEldLem	r14	r09	r02	r20			dmg%		300	
 Runeword96	Patience																																																			0
 Runeword97	Pattern	1						h2h									TalOrtThul	r07	r09	r10				swing1		15	15	dmg%		80	120	dmg-elem		100	100	res-all		15	15	str		15	15	dex		15	15	skilltab	20	1	1	0
 Runeword98	Peace	1						tors									ShaelThulAmn	r13	r10	r11				move2		25	25	gethit-skill	Slow Missiles	15	10	ama		2	2	oskill	Critical Strike	2	2	skill	Evade	2	2	skill	Avoid	2	2	skill	Dodge	2	2	0
-Runeword99	Voice of Reason	1						weap									LemKoElEld	r20	r18	r01	r02			dmg-demon		250	350	dmg-undead		280	300	coldskill		1	2	pierce-cold		24	36	hit-skill	Ice Blast	20	50	att-skill	Frozen Orb	15	36	nofreeze		1	1	0
+Runeword99	Voice of Reason	1						weap									LemKoElEld	r20	r18	r01	r02			dmg-demon		250	350	dmg-undead		280	300	coldskill		1	2	pierce-cold		24	36	hit-skill	Frost Nova	20	50	att-skill	Frozen Orb	15	36	nofreeze		1	1	0
 Runeword100	Penitence																																																			0
 Runeword101	Peril																																																			0
 Runeword102	Pestilence	1					BTDIABLO	tors									TalChamIst	r07	r32	r24				allskills		2	3	pierce-pois		40	50	noheal		1	1	ac		400	500	gethit-skill	Lower Resist	50	50	aura	cleansing	15	15	res-mag		50	50	0
