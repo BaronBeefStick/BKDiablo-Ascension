@@ -5,6 +5,7 @@ BKDiablo is a mod by Baron and Kex for Diablo II Resurrected. As such, it is onl
 This version of the game is in Beta. 
 
 WIKI is a WIP. [WIKI Link](https://bkdiablo.miraheze.org/wiki/Main_Page)
+Up to date Vanilla - [BKD compare](https://ryan-reid.github.io/BT-BKDiff/)
 
 ## Game 
 - More Challenging
