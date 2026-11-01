@@ -8,6 +8,8 @@ WIKI is a WIP. [WIKI Link](https://bkdiablo.miraheze.org/wiki/Main_Page)
 
 Up to date Vanilla - [BKD compare](https://ryan-reid.github.io/BT-BKDiff/)
 
+[Discord Link](https://discord.gg/HZAshrGAFd)
+
 ## Game 
 - More Challenging
 - Built-in Loot Filter alongside Blizzard's Loot filter.
