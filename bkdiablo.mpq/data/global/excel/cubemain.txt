@@ -129,7 +129,7 @@ Charsi's Malus + Gheed's Fortune -> 3 MF Potions	1				0					2	Gheed's Fortune	ml
 5 Ascended Rubies + Prime Sigil = 2 Unique Rings + SoH	1				100					6	gar,qty=5	gwh						rin,uni	99		99																										rin,uni	99		99																										std	99		99																										0
 5 Ascended Sapphires + Prime Sigil = Facet + SoH	1				100					6	gab,qty=5	gwh						jew,uni	97		97																										std	99		99																																																							0
 5 Ascended Emeralds + Prime Sigil = Gheeds + SoH	1				100					6	gag,qty=5	gwh						Gheed's Fortune	99		99																										std	99		99																																																							0
-5 Ascended Topazes + Prime Sigil = Vex Rune + SoH	1				100					6	gay,qty=5	gwh						r24																													std	99		99																																																							0
+5 Ascended Topazes + Prime Sigil = Vex Rune + SoH	1				100					6	gay,qty=5	gwh						r26																													std	99		99																																																							0
 5 Ascended Skulls + Prime Sigil = Fracture Halo + Infernal Maw + SoH	1				100					6	ska,qty=5	gwh						rrr																													rtr																													std	99		99																										0
 3 Chipped Amethysts -> Flawed Amethyst	1				100					3	"gcv,qty=3"							gfv																																																																																							0
 3 Flawed Amethysts -> Standard Amethyst	1				100					3	"gfv,qty=3"							gsv																																																																																							0
@@ -1560,5 +1560,7 @@ UPGRADE SPLASH CHARM TIER - T5 Splash Charm & Fal-Rune & Perfect Skull = T6 Spla
 UPGRADE SPLASH CHARM TIER - T6 Splash Charm & Pul-Rune & Eth-Rune & Perfect Skull = T7 Splash Charm	0				100	15	386	1		3	Ravaging T6	r21	r05					Ravaging T7	41		99																										Ravaging T7	41																																																									0
 UPGRADE SPLASH CHARM TIER - T7 Splash Charm & Mal-Rune & Tal-Rune & Perfect Skull = T8 Splash Charm	0				100	15	386	1		3	Ravaging T7	r23	r07					Ravaging T8	45		99																										Ravaging T8	45																																																									0
 UPGRADE SPLASH CHARM TIER - T8 Splash Charm & Ohm-Rune & Ral-Rune & Charsi Malus & Larzuk Malus = T9 Splash Charm	0				100	15	386	1		5	Ravaging T8	r27	r08	mls	lmr			Ravaging T9	49		99																										Ravaging T9	49																																																									0
-hackx	0				100					1	tsc							Unstoppable Force	99		99																										Immovable Object	99		99																										Tal Rasha's Omniscience	99		99																										0
-hackx2	0				100					2	"tsc,qty=2"							Lidless Wall	99		99																										Primal Archmage Fist	99		99																										Sandstorm Trek	99		99																										0
+hackx	0				100					1	tsc							Heaven's Light	99		99																										Seraph's Hymn	99		99																										Spiritkeeper	99		99																										0
+hackx2	0				100					2	"tsc,qty=2"							Spectral Claws	99		99																										Earthshaker	99		99																										Demonlimb	99		99																										0
+hackx3	0				100					3	"tsc,qty=3"							Alma Negra	99		99																										Dragonscale	99		99																										Medusa's Gaze	99		99																										0
+hackx4	0				100					4	"tsc,qty=4"							Ravenlore	99		99																										Frostwind	99		99																										Shadowkiller	99		99																										0
