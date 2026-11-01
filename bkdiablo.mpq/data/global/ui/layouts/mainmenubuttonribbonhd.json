@@ -181,7 +181,7 @@
                   "name": "MotDBodyText",
                   "fields": {
                     "rect": { "x": 5, "y": 5, "width": 594, "height": 500 },
-                    "text": "BKDiablo: Ascension v18.0\n\nLATEST CHANGES\n• Chaining Double Throw\n• 9 New Sets\n• 25 New Set Items\n• Unique Item Changes\n• Runewords Changes\n• Additional Fixes and Improvements\n\nReport Bugs in BKD-BugReport\nThanks for Playing!",
+                    "text": "BKDiablo: Ascension v18.1\n\nLATEST CHANGES\n• Synergy and Item November Update\n• Unique and Set Item Changes\n• Additional Fixes and Improvements\n\nReport Bugs in BKD-BugReport\nThanks for Playing!",
                     "fitToText": true,
                     "style": {
                       "fontFace": "BlizzardGlobal",
